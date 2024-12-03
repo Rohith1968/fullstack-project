@@ -7,4 +7,11 @@ This is a full-stack application combining:
 ---
 
 ## 🏗️ Project Structure
+project/
+├── frontend/         # JetSetGo - Frontend application (UI/UX)
+│   ├── [Frontend files...]
+├── backend/          # Demo - Backend application (APIs and logic)
+    ├── [Backend files...]
+
+
 
